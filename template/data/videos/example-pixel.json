@@ -1,0 +1,75 @@
+{
+  "id": "example-pixel",
+  "theme": "pixel",
+  "title": "AI는 사실 단어 하나만 맞힌다?",
+  "style": "16-bit pixel art, retro SNES era video game style, crisp visible square pixels, limited vibrant palette, dithered shading, cinematic composition, no text, no letters, no numbers, no UI, no watermark, vertical 9:16",
+  "scenes": [
+    {
+      "id": "n01",
+      "hook": [
+        "챗GPT의 비밀",
+        "단어 하나씩?"
+      ],
+      "narration": "챗GPT 같은 AI는 사실, 다음에 올 단어 하나를 맞히는 기계입니다.",
+      "highlight": [
+        "다음에 올 단어"
+      ],
+      "motion": "zoomIn",
+      "prompt": "A cute retro robot sitting at a glowing computer terminal in a dark room, a single glowing word block floating above its head, mysterious neon blue and purple lighting"
+    },
+    {
+      "id": "n02",
+      "narration": "오늘 날씨가 정말, 다음엔 뭐가 올까요? 맑다, 춥다, 좋다. AI는 단어마다 확률을 계산합니다.",
+      "highlight": [
+        "확률"
+      ],
+      "motion": "panRight",
+      "prompt": "The retro robot looking at three floating glowing blocks of different heights like a bar chart, a sunny sky window and a snowy window behind, colorful game interface feeling without text"
+    },
+    {
+      "id": "n03",
+      "narration": "그리고 가장 그럴듯한 단어 하나를 골라 붙이고, 또 다음 단어를 예측하죠.",
+      "highlight": [
+        "또 다음 단어"
+      ],
+      "motion": "panLeft",
+      "prompt": "The retro robot placing glowing blocks one by one to build a long bridge across a chasm, like a platform game level, bright pixel sky"
+    },
+    {
+      "id": "n04",
+      "narration": "이 단순한 게임을 인터넷의 엄청난 글로 끝없이 반복 연습한 게 바로 대형 언어 모델입니다.",
+      "highlight": [
+        "대형 언어 모델"
+      ],
+      "motion": "zoomOut",
+      "prompt": "A gigantic library of floating books and scrolls swirling into a massive glowing crystal brain in the center, the small retro robot looking up in awe, epic scale"
+    },
+    {
+      "id": "n05",
+      "narration": "그런데 너무 많이 연습하다 보니, 문법은 물론 논리와 지식까지 따라 배우게 됐죠.",
+      "highlight": [
+        "논리와 지식"
+      ],
+      "motion": "zoomIn",
+      "prompt": "The retro robot leveling up with a burst of golden light, icons of a book, a lightbulb, a globe and a math symbol orbiting around it, celebratory RPG level-up moment"
+    },
+    {
+      "id": "n06",
+      "narration": "그래서 AI의 답은 정답이 아니라, 가장 그럴듯한 다음 말입니다.",
+      "highlight": [
+        "가장 그럴듯한"
+      ],
+      "motion": "panRight",
+      "prompt": "The retro robot standing at a fork in a pixel forest path with several glowing signposts, choosing the brightest path, dusk lighting"
+    },
+    {
+      "id": "n07",
+      "narration": "다음에 AI와 대화할 땐 기억하세요. 지금도 한 단어씩 고르고 있다는 걸요.",
+      "highlight": [
+        "한 단어씩"
+      ],
+      "motion": "zoomIn",
+      "prompt": "A person at a cozy desk at night chatting on a laptop, the screen glows and a tiny retro robot inside the screen is carefully picking up one glowing block, warm lamp light"
+    }
+  ]
+}

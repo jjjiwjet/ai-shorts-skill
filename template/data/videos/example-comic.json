@@ -1,0 +1,102 @@
+{
+  "id": "example-comic",
+  "theme": "comic",
+  "title": "인류 최초의 문명은 왜 사라졌을까?",
+  "style": "Hand-drawn comic book illustration, bold black ink outlines, flat cel shading, warm earthy palette of ochre, terracotta and teal, slightly textured paper look, cinematic composition, no text, no letters, no watermark, vertical 9:16",
+  "scenes": [
+    {
+      "id": "s01",
+      "hook": [
+        "인류 최초의 문명",
+        "왜 사라졌을까?"
+      ],
+      "narration": "인류 최초의 문명. 그런데 왜 우리는 이들을 거의 기억하지 못할까요?",
+      "highlight": [
+        "최초의 문명",
+        "기억"
+      ],
+      "motion": "zoomIn",
+      "prompt": "A vast ruined ziggurat half-buried in desert sand at sunset, a lone hooded traveler standing in the foreground looking up at it, dramatic orange sky, mysterious mood"
+    },
+    {
+      "id": "s02",
+      "narration": "약 6천 년 전, 메소포타미아. 티그리스강과 유프라테스강 사이에서 수메르인들이 도시를 세웠습니다.",
+      "highlight": [
+        "6천 년 전",
+        "수메르인"
+      ],
+      "motion": "panRight",
+      "prompt": "Aerial view of an ancient Sumerian mud-brick city between two winding rivers, green irrigated fields and palm trees, boats on the river, people working, bright morning light"
+    },
+    {
+      "id": "s03",
+      "narration": "그들은 인류 최초로 문자를 만들었습니다. 점토판에 갈대 펜을 눌러 새긴 쐐기문자죠.",
+      "highlight": [
+        "최초로 문자",
+        "쐐기문자"
+      ],
+      "motion": "zoomIn",
+      "prompt": "Close-up of a Sumerian scribe's hands pressing a reed stylus into a wet clay tablet covered with cuneiform wedge marks, oil lamp light, focused expression of the bearded scribe in the background"
+    },
+    {
+      "id": "s04",
+      "narration": "바퀴, 맥주, 그리고 한 시간이 60분인 것까지. 전부 수메르에서 시작됐습니다.",
+      "highlight": [
+        "바퀴",
+        "60분"
+      ],
+      "motion": "panLeft",
+      "prompt": "Collage-like scene of Sumerian inventions: a wooden solid wheel on an ox cart, clay jars of beer, a priest pointing at stars and a sundial-like circle divided into sixty marks, lively market background"
+    },
+    {
+      "id": "s05",
+      "narration": "하늘에 닿으려 했던 거대한 신전, 지구라트. 우르와 우루크에는 수만 명이 모여 살았죠.",
+      "highlight": [
+        "지구라트",
+        "수만 명"
+      ],
+      "motion": "zoomOut",
+      "prompt": "Low angle view of the towering Great Ziggurat of Ur with long staircases, crowds of Sumerian people in wool skirts walking toward it, priests at the top, golden afternoon light, epic scale"
+    },
+    {
+      "id": "s06",
+      "narration": "그런데 이 강력한 문명을 무너뜨린 건, 적이 아니었습니다. 바로 그들이 딛고 선 땅이었죠.",
+      "highlight": [
+        "적이 아니었습니다",
+        "땅"
+      ],
+      "motion": "zoomIn",
+      "prompt": "A worried Sumerian farmer kneeling in a cracked field, holding a handful of white crusted soil, dead wheat stalks around him, ominous grey-yellow sky"
+    },
+    {
+      "id": "s07",
+      "narration": "수천 년 동안 물을 끌어다 쓰면서 흙 속에 소금이 쌓였고, 밀은 더 이상 자라지 않았습니다. 굶주린 도시들은 서로 싸우기 시작했죠.",
+      "highlight": [
+        "소금",
+        "서로 싸우기"
+      ],
+      "motion": "panRight",
+      "prompt": "Two Sumerian armies with spears and rectangular shields clashing in front of city walls, a war chariot pulled by donkeys, dust and smoke, white salt-crusted fields in the background"
+    },
+    {
+      "id": "s08",
+      "narration": "그리고 기원전 2000년경, 침략자들에게 우르가 함락되며 수메르는 역사 속으로 사라졌습니다.",
+      "highlight": [
+        "우르가 함락",
+        "사라졌습니다"
+      ],
+      "motion": "zoomOut",
+      "prompt": "The city of Ur burning at night, the ziggurat silhouetted against flames, invaders with torches entering the gates, people fleeing, tragic mood, deep red and black palette"
+    },
+    {
+      "id": "s09",
+      "narration": "하지만 그들이 만든 문자와 시간은, 지금도 여러분의 손목 위에서 흐르고 있습니다.",
+      "highlight": [
+        "문자와 시간",
+        "손목 위"
+      ],
+      "motion": "zoomIn",
+      "prompt": "A modern person's wrist with an analog wristwatch in the foreground, behind it a ghostly translucent Sumerian scribe holding a clay tablet, warm nostalgic light, past and present blending"
+    }
+  ]
+}

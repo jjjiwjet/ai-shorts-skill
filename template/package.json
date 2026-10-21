@@ -1,0 +1,26 @@
+{
+  "name": "shortform-videos",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prepare-assets": "node scripts/build-manifest.mjs",
+    "tts": "python3 scripts/tts_voicebox.py",
+    "tts:eleven": "python3 scripts/tts_elevenlabs.py",
+    "dev": "npm run prepare-assets && remotion studio src/index.ts",
+    "render": "npm run prepare-assets && node scripts/render.mjs",
+    "postinstall": "node -e \"require('fs').mkdirSync('public/fonts',{recursive:true});require('fs').copyFileSync('node_modules/galmuri/dist/Galmuri11-Bold.woff2','public/fonts/Galmuri11-Bold.woff2')\""
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.537",
+    "@remotion/fonts": "4.0.537",
+    "@remotion/google-fonts": "4.0.537",
+    "galmuri": "2.40.3",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.537"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.8",
+    "typescript": "5.8.3"
+  }
+}
